@@ -1,7 +1,7 @@
-# What I do on each clean install of a computer
+# What I do on a clean install of my computer
 
-This repo contains a set of software, settings and configs I use when I install a new fresh computer.
-Usually it's a Windows machine, but I have done some work on Linux. 
+I prefer Windows so most of this is Windows only, but I have tried Linux and am starting to appreciate WSL. For now most of this will be Windows specific.
 
-I'm not saying I am an expert, but since I was keeping track of what I usually do I might as well share it and maybe help someone or get usefull feedback.
+[Windows](./windows/readme.md)
 
+Full disclosure: This repo is for my benefit and not to show others how good I am or what cool tools I use. 
