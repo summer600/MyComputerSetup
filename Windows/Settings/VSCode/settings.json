@@ -1,0 +1,8 @@
+{
+    "extensions.ignoreRecommendations": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.fontFamily": "'Cascadia Code', 'Delugia Nerd Font', Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "vsonline.accountProvider": "Microsoft",
+    "codespaces.accountProvider": "Microsoft"
+}
