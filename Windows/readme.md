@@ -31,7 +31,7 @@ data
 ```
 * git is the default location to put github repo's. I keep my git DevOps repo's under vsts
 * dev a folder for some local test development not under sourcecontrol
-* nuget a fodler for my local nuget cache. I configure a .nuget file in a root per dev folder or solution so all nuget packages are downloaded here. I know, but I like to prevent massive amounts of duplicate files
+* nuget a folder for my local nuget cache. I configure a .nuget file in a root per dev folder or solution so all nuget packages are downloaded here. I know, but I like to prevent massive amounts of duplicate files
 * vsts my DevOps sourcecontrolled files. The name should change but since MS changes product names soo fast I am sticking with this for now. Previously I would use "visualstudioonline" :-|
 * temp is as the names suggests for temp files, I don't like c:\windows\temp and have resisted c:\temp
 * iso is a folder I sometimes have to store .iso files that I keep longer. Usually the end up in temp of stay in the system Downloads folder
@@ -41,4 +41,19 @@ data
 
 After having setup my folders I can continue setting up software
 
+## Visualstudio 2019
 * Start Visualstudio and configure that to use c:\data\dev as default folder for new solutions
+
+## Visualstudio Code
+Some usefull extensions I tend to install everytime
+
+* Live Server (ritwickdey.liveserver)
+* Azure Account (ms-vscode.azure-account)
+* C# (ms-dotnettools.csharp)
+* Paste JSON as Code (quicktype.quicktype)
+* Remote WSL (ms-vscode-remote.remote-wsl)
+* Git Graph (mhutchie.git-graph)
+* Bracket Pair Colorizer 2 (coenraads.bracket-pair-colorizer-2)
+
+* Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets (thekalinga.bootstrap4-vscode)
+* Angular 8 Snippets - TypeScript, Html, Angular Material, ngRx, RxJS & Flex Layout (Mikael.Angular-BeastCode)
