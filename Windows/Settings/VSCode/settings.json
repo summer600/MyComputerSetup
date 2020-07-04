@@ -4,5 +4,35 @@
     "editor.fontFamily": "'Cascadia Code', 'Delugia Nerd Font', Consolas, 'Courier New', monospace",
     "editor.fontLigatures": true,
     "vsonline.accountProvider": "Microsoft",
-    "codespaces.accountProvider": "Microsoft"
+    "codespaces.accountProvider": "Microsoft",
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "editor.minimap.renderCharacters": false,
+    "editor.renameOnType": true,
+    "explorer.openEditors.visible": 0,
+    "rest-client.environmentVariables": {
+    
+    },
+    "bracket-pair-colorizer-2.activeScopeCSS": [
+
+        "borderStyle : solid",
+        "borderWidth : 1px",
+        "borderColor : {color}",
+        "opacity: 0.5"
+    ],
+    "mssql.connections": [
+        
+    ],
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "Visual Studio 2019 Dark",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.preferredDarkColorTheme": "Visual Studio Dark",
+    "workbench.preferredLightColorTheme": "Winter is Coming (Light)",
+    "workbench.sideBar.location": "right",
+    "workbench.tips.enabled": false,
+    "workbench.editor.tabCloseButton": "off",
+    "workbench.editor.tabSizing": "shrink",
+    "screencastMode.fontSize": 64
 }
