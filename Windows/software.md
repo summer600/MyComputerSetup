@@ -21,6 +21,7 @@ winget install --id=Microsoft.VisualStudioCode -e
 winget install --id=Microsoft.WindowsTerminal -e
 winget install --id=Microsoft.dotNetFramework -e
 winget install --id=Microsoft.dotnet -e
+winget install --id=mRemoteNG.mRemoteNG -e
 winget install --id=Notepad++.Notepad++ -e
 winget install --id=OBSProject.OBSStudio -e
 winget install --id=OpenVPNTechnologies.OpenVPN -e
@@ -45,13 +46,15 @@ rem X410
 Some optional features that I sometimes install on a machine but are not part of the default install.
 
 ```
+winget install --id=DBBrowserForSQLite.DBBrowserForSQLite -e
 winget install --id=Git.GitLFS -e
 winget install --id=GitHub.GitLFS -e
 winget install --id=LINQPad.LINQPad -e
-winget install --id=Microsoft.PowerToys -e
-winget install --id=Microsoft.WindowsAdminCenter -e
-winget install --id=Microsoft.AzureStorageEmulator -e
 winget install --id=Microsoft.AzureCLI -e
+winget install --id=Microsoft.AzureStorageEmulator -e
+winget install --id=Microsoft.PowerToys -e
+winget install --id=Microsoft.RemoteDesktopClient -e
+winget install --id=Microsoft.WindowsAdminCenter -e
 winget install --id=NSIS.NSIS -e
 winget install --id=RealVNC.VNCViewer -e
 winget install --id=TeamViewer.TeamViewer -e
