@@ -2,34 +2,34 @@
 These are the tools I install by default on a new fresh install of Windows.
 
 ```
-winget install 7zip.7zip
-winget install Canonical.Ubuntu
-winget install Docker.DockerDesktop
-winget install Git.Git
-winget install GitHub.GitHubDesktop
-winget install Insomnia.Insomnia
-winget install LogMeIn.LastPass
-winget install Microsoft.AzureStorageExplorer
-winget install Microsoft.EdgeDev
-winget install Microsoft.GitCredentialManagerforWindows
-winget install Microsoft.OneDrive
-winget install Microsoft.PowerShell
-winget install Microsoft.SQLServerManagementStudio
-winget install Microsoft.Teams
-winget install Microsoft.VisualStudio.Community
-winget install Microsoft.VisualStudioCode
-winget install Microsoft.WindowsTerminal
-winget install Microsoft.dotNetFramework
-winget install Microsoft.dotnet
-winget install Notepad++.Notepad++
-winget install OBSProject.OBSStudio
-winget install OpenVPNTechnologies.OpenVPN
-winget install PuTTY.PuTTY
-winget install Rufus.Rufus
-winget install ShareX.ShareX
-winget install Spotify.Spotify
-winget install WhatsApp.WhatsApp
-winget install mRemoteNG.mRemoteNG
+winget install --id=7zip.7zip -e
+winget install --id=Canonical.Ubuntu -e
+winget install --id=Docker.DockerDesktop -e
+winget install --id=Git.Git -e
+winget install --id=GitHub.GitHubDesktop -e
+winget install --id=Insomnia.Insomnia -e
+winget install --id=LogMeIn.LastPass -e
+winget install --id=Microsoft.AzureStorageExplorer -e
+winget install --id=Microsoft.EdgeDev -e
+winget install --id=Microsoft.GitCredentialManagerforWindows -e
+winget install --id=Microsoft.OneDrive -e
+winget install --id=Microsoft.PowerShell -e
+winget install --id=Microsoft.SQLServerManagementStudio -e
+winget install --id=Microsoft.Teams -e
+winget install --id=Microsoft.VisualStudio.Community -e
+winget install --id=Microsoft.VisualStudioCode -e
+winget install --id=Microsoft.WindowsTerminal -e
+winget install --id=Microsoft.dotNetFramework -e
+winget install --id=Microsoft.dotnet -e
+winget install --id=Notepad++.Notepad++ -e
+winget install --id=OBSProject.OBSStudio -e
+winget install --id=OpenVPNTechnologies.OpenVPN -e
+winget install --id=PuTTY.PuTTY -e
+winget install --id=Rufus.Rufus -e
+winget install --id=ShareX.ShareX -e
+winget install --id=Spotify.Spotify -e
+winget install --id=WhatsApp.WhatsApp -e
+winget install --id=mRemoteNG.mRemoteNG -e
 
 rem some are not available in winget (yet)
 rem Microsoft 365 
@@ -45,20 +45,19 @@ rem X410
 Some optional features that I sometimes install on a machine but are not part of the default install.
 
 ```
-winget install Git.GitLFS
-winget install GitHub.GitLFS
-winget install LINQPad.LINQPad
-winget install Microsoft.PowerToys
-winget install Microsoft.WindowsAdminCenter
-winget install Microsoft.
-winget install Microsoft.AzureStorageEmulator
-winget install Microsoft.AzureCLI
-winget install NSIS.NSIS
-winget install RealVNC.VNCViewer
-winget install TeamViewer.TeamViewer
-winget install Valve.Steam
-winget install WiresharkFoundation.Wireshark
-winget install Zoom.Zoom
+winget install --id=Git.GitLFS -e
+winget install --id=GitHub.GitLFS -e
+winget install --id=LINQPad.LINQPad -e
+winget install --id=Microsoft.PowerToys -e
+winget install --id=Microsoft.WindowsAdminCenter -e
+winget install --id=Microsoft.AzureStorageEmulator -e
+winget install --id=Microsoft.AzureCLI -e
+winget install --id=NSIS.NSIS -e
+winget install --id=RealVNC.VNCViewer -e
+winget install --id=TeamViewer.TeamViewer -e
+winget install --id=Valve.Steam -e
+winget install --id=WiresharkFoundation.Wireshark -e
+winget install --id=Zoom.Zoom -e
 
 rem some are not available in winget (yet)
 rem ngrok
