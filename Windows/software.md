@@ -15,6 +15,7 @@ winget install --id=Microsoft.GitCredentialManagerforWindows -e
 winget install --id=Microsoft.OneDrive -e
 winget install --id=Microsoft.PowerShell -e
 winget install --id=Microsoft.SQLServerManagementStudio -e
+winget install --id=Microsoft.AzureDataStudio -e
 winget install --id=Microsoft.Teams -e
 winget install --id=Microsoft.VisualStudio.Community -e
 winget install --id=Microsoft.VisualStudioCode -e
