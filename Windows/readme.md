@@ -57,3 +57,9 @@ Some usefull extensions I tend to install everytime
 
 * Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets (thekalinga.bootstrap4-vscode)
 * Angular 8 Snippets - TypeScript, Html, Angular Material, ngRx, RxJS & Flex Layout (Mikael.Angular-BeastCode)
+
+## Edge
+I use a few extensions in the browser.
+
+* Lastpass
+* Json Beautifier and editor
