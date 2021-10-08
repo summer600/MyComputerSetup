@@ -8,16 +8,16 @@ winget install --id=Docker.DockerDesktop -e
 winget install --id=Git.Git -e
 winget install --id=GitHub.GitHubDesktop -e
 winget install --id=Insomnia.Insomnia -e
+winget install --id=LINQPad.LINQPad.6 -e
 winget install --id=LogMeIn.LastPass -e
 winget install --id=Microsoft.AzureStorageExplorer -e
 winget install --id=Microsoft.EdgeDev -e
 winget install --id=Microsoft.GitCredentialManagerforWindows -e
 winget install --id=Microsoft.OneDrive -e
 winget install --id=Microsoft.PowerShell -e
-winget install --id=Microsoft.SQLServerManagementStudio -e
 winget install --id=Microsoft.AzureDataStudio -e
 winget install --id=Microsoft.Teams -e
-winget install --id=Microsoft.VisualStudio.Community -e
+winget install --id=Microsoft.VisualStudio.2019.Community -e
 winget install --id=Microsoft.VisualStudioCode -e
 winget install --id=Microsoft.WindowsTerminal -e
 winget install --id=Microsoft.dotNetFramework -e
@@ -31,7 +31,6 @@ winget install --id=Rufus.Rufus -e
 winget install --id=ShareX.ShareX -e
 winget install --id=Spotify.Spotify -e
 winget install --id=WhatsApp.WhatsApp -e
-winget install --id=mRemoteNG.mRemoteNG -e
 
 rem some are not available in winget (yet)
 rem Microsoft 365 

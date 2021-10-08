@@ -4,4 +4,6 @@ I prefer Windows so most of this is Windows only, but I have tried Linux and am 
 
 [Windows](./Windows/readme.md)
 
+[WSL2 Ubuntu 2004](./Linux/readme.md)
+
 Full disclosure: This repo is for my benefit and not to show others how good I am or what cool tools I use. 
