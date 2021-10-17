@@ -63,3 +63,8 @@ I use a few extensions in the browser.
 
 * Lastpass
 * Json Beautifier and editor
+
+## Regedit hacks
+Some settings are not simply available and we have to resort to registry hacks. I hate some of the default folders Windows displays so I clean them up.
+
+[Remove Music and Videos folders](./Settings/registry/regedit-hide-music-and-videos-from-this-pc.reg)
